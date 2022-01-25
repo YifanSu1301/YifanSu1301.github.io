@@ -1,19 +1,17 @@
-title: IT-блог
+title: CMU Student
 description: > # this means to ignore newlines until "baseurl:"
-  Blog with theme Future Imperfect<br>
+  Blog <br>
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://future-imperfect.kaptn.ru" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://yifansu1301.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
 
 author:
-  name: 'Viktoriya Kapitonenko'
-  last_name: 'Kapitonenko'
-  cv: '//kaptn.ru'
+  name: 'Yifan'
+  last_name: 'Su'
+  cv: '/'
   avatar: '/images/avatar.jpeg'
-  github_username:  kaptn3  
-  email: vika@kaptn.ru
-  vk_id: id201664979
-  telegram_name: vikapitoshka 
+  github_username:  YifanSu1301  
+  email: yifansu@andrew.cmu.edu
   logo: '/images/logo.svg'
 
 # Build settings

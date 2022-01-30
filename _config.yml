@@ -1,7 +1,7 @@
 title: CMU Student
 description: > # this means to ignore newlines until "baseurl:"
   Blog <br>
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/blog" # the subpath of your site, e.g. /blog
 url: "https://yifansu1301.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
 
@@ -16,8 +16,8 @@ author:
 
 # Build settings
 markdown: kramdown
-highlighter: rouge
-    input: GFM
+kmarkdown:
+  input: GFM
 
 permalink: /:categories/:year/:title.html
 

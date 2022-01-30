@@ -16,6 +16,8 @@ author:
 
 # Build settings
 markdown: kramdown
+highlighter: rouge
+    input: GFM
 
 permalink: /:categories/:year/:title.html
 

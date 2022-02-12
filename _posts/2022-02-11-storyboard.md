@@ -47,4 +47,10 @@ A storyboard is an illustrated, step-by-step presentation describing how people 
    - *Second panel illustrates the idea and how it solves a need.*
    - *Third panel demonstrates the outcome.*
 
+
+<img width="705" alt="截屏2022-02-11 下午6 23 02" src="https://user-images.githubusercontent.com/77670073/153684399-2d04871a-e6f1-4568-9e52-5327277a06d4.png">
+<img width="943" alt="截屏2022-02-11 下午6 22 43" src="https://user-images.githubusercontent.com/77670073/153684432-9b01e717-9815-4bfe-a738-c0b0fb1bde4c.png">
+
+
+
    

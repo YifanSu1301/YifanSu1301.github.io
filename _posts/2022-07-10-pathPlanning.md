@@ -6,7 +6,7 @@ category: robotics, note
 icon: git
 keywords: robotics, path planning
 image: planning.png
-preview: 1
+preview: 0
 ---
 Note for some basic planning algorithm.
 Most pictures and notes come from UPenn courses - Robotics - computational motion planning

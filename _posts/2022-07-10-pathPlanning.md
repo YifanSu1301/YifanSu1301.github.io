@@ -2,7 +2,7 @@
 layout: post
 title:  "Path Planning Basic Algorithm"
 date:   2022-07-10 12:00
-category: robotics, note
+category: robotics
 icon: git
 keywords: robotics, path planning
 image: planning.png
